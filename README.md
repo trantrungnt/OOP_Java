@@ -24,5 +24,5 @@
 ###Tóm tắt: các mức truy cập trong Lập trình hướng đối tượng (sử dụng ngôn ngữ Java)
 ![Các mức truy cập trong OOP-Java](http://i477.photobucket.com/albums/rr132/trungepu/OOP-Java-CacMucTruyCap_v1_zpscpyqq5bz.png)
 
-* [(Nguồn tham khảo xem tại đây](http://www.nguyenvanquan7826.com/2013/09/07/java-cac-muc-truy-cap-trong-java-modifier-in-java/)
+* [Nguồn tham khảo xem tại đây](http://www.nguyenvanquan7826.com/2013/09/07/java-cac-muc-truy-cap-trong-java-modifier-in-java/)
 
