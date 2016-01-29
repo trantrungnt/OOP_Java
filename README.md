@@ -14,8 +14,15 @@
 + Protected
 + Private
 + default
+
+###Mức truy cập Public
 ![Mức truy cập OOP-Java: public](http://i477.photobucket.com/albums/rr132/trungepu/MucTruyCap_OOP_Java_zpshurperhk.png)
+
+###Mức truy cập Private
 ![Mức truy cập OOP-Java: private](http://i477.photobucket.com/albums/rr132/trungepu/MucTruyCap_private_OOP_Java_zpsnpyl2xl7.png)
+
+###Tóm tắt: các mức truy cập trong Lập trình hướng đối tượng (sử dụng ngôn ngữ Java)
+![Các mức truy cập trong OOP-Java](http://i477.photobucket.com/albums/rr132/trungepu/OOP-Java-CacMucTruyCap_v1_zpscpyqq5bz.png)
 
 * [(Nguồn tham khảo xem tại đây](http://www.nguyenvanquan7826.com/2013/09/07/java-cac-muc-truy-cap-trong-java-modifier-in-java/)
 
