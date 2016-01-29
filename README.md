@@ -21,6 +21,9 @@
 ###Mức truy cập Private
 ![Mức truy cập OOP-Java: private](http://i477.photobucket.com/albums/rr132/trungepu/MucTruyCap_private_OOP_Java_zpsnpyl2xl7.png)
 
+###Mức truy cập Default
+![Mức truy cập OOP-Java: default](http://i477.photobucket.com/albums/rr132/trungepu/MucTruyCap_default_OOP_Java_zpsg4acmcnw.png)
+
 ###Tóm tắt: các mức truy cập trong Lập trình hướng đối tượng (sử dụng ngôn ngữ Java)
 ![Các mức truy cập trong OOP-Java](http://i477.photobucket.com/albums/rr132/trungepu/OOP-Java-CacMucTruyCap_v1_zpscpyqq5bz.png)
 
