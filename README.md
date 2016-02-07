@@ -4,6 +4,7 @@
 + Công cụ Netbeans version 8.1
 
 ##Các đặc điểm của Lập trình hướng đối tượng
+[Các nét đặc trưng của Lập trình hướng đối tượng OOP](http://javae.net/nhung-dac-trung-co-ban-trong-lap-trinh-huong-doi-tuong-oops/)
 + Tính trừu tượng
 + Tính đóng gói
 + Tính kế thừa
