@@ -34,4 +34,5 @@
 * [Demo các mức truy cập Class trong OOP dùng ngôn ngữ Java](https://github.com/trantrungnt/DemoAccessOOP.git)
 
 * [Nguồn tham khảo xem tại đây](http://www.nguyenvanquan7826.com/2013/09/07/java-cac-muc-truy-cap-trong-java-modifier-in-java/)
+* [Phân biệt Interface và lớp Abstract trong OOP](http://kythuatlaptrinh.com/noi-dung/phan-biet-interface-va-lop-abstract-trong-oop.html)
 
