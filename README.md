@@ -8,7 +8,7 @@
 + Tính trừu tượng
 + Tính đóng gói
 + Tính kế thừa
-+ Tính đa hình
++ [Tính đa hình](https://github.com/trantrungnt/LearnDaHinh)
 
 ##Các mức truy cập trong Lập trình hướng đối tượng (sử dụng ngôn ngữ Java)
 + Public
